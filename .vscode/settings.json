@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.cStandard": "c11",
+    "files.associations": {
+        "chip8_config.h": "c",
+        "chip8_stack.h": "c",
+        "chip8_keyboard.h": "c"
+    }
+}
