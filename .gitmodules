@@ -1,0 +1,3 @@
+[submodule "sdl"]
+	path = ext/sdl
+	url = https://github.com/libsdl-org/SDL
